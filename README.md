@@ -1,4 +1,5 @@
 #JS_CH6
+
 6 - 1 : Person.prototype 
 
 6 - 2 : prototype과 __proto___
