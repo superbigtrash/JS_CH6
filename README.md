@@ -2,7 +2,7 @@
 
 6 - 1 : Person.prototype 
 
-6 - 2 : prototype과 __proto___
+6 - 2 : prototype과  __proto___
 
 6 - 3 : constructor 프로퍼티
 
